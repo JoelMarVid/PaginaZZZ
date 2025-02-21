@@ -8,3 +8,115 @@
     color: black;
     margin-right: 35px;
 }
+.belle{
+    border: 1px solid black;
+    width: 180px;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.belle img {
+    flex-shrink: 0;
+}
+.belle p {
+    margin-top: 10px; 
+}
+.belle a{
+    text-decoration: none;
+    color: black;
+}
+
+.wise{
+    border: 1px solid black;
+    width: 180px;
+    height: 170px;
+    margin-left: 190px;
+    margin-top: -172px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.wise img {
+    flex-shrink: 0;
+}
+.wise p {
+    margin-top: 10px; 
+}
+.wise a{
+    text-decoration: none;
+    color: black;
+}
+
+.billy{
+    border: 1px solid black;
+    width: 180px;
+    height: 170px;
+    margin-left: 380px;
+    margin-top: -172px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.billy img {
+    flex-shrink: 0;
+}
+.billy p {
+    margin-top: 10px; 
+}
+.billy a{
+    text-decoration: none;
+    color: black;
+}
+
+.nicole{
+    border: 1px solid black;
+    width: 180px;
+    height: 170px;
+    margin-left: 570px;
+    margin-top: -172px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.nicole img {
+    flex-shrink: 0;
+}
+.nicole p {
+    margin-top: 10px; 
+}
+.nicole a{
+    text-decoration: none;
+    color: black;
+}
+
+.anby{
+    border: 1px solid black;
+    width: 180px;
+    height: 170px;
+    margin-left: 760px;
+    margin-top: -172px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.anby img {
+    flex-shrink: 0;
+}
+.anby p {
+    margin-top: 10px; 
+}
+.anby a{
+    text-decoration: none;
+    color: black;
+}
