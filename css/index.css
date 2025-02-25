@@ -8,6 +8,14 @@
     color: black;
     margin-right: 35px;
 }
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.section-header h1 {
+    margin-right: 10px; 
+}
 .belle{
     border: 1px solid black;
     width: 180px;
@@ -56,8 +64,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 380px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -79,7 +85,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 570px;
+    margin-left: 190px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -102,7 +108,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 760px;
+    margin-left: 380px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -125,7 +131,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 950px;
+    margin-left: 570px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -148,8 +154,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1140px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -171,7 +175,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1330px;
+    margin-left: 190px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -194,7 +198,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1520px;
+    margin-left: 380px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -217,7 +221,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1710px;
+    margin-left: 570px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -331,8 +335,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 760px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -354,8 +356,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 950px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -377,7 +377,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1140px;
+    margin-left: 190px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -400,7 +400,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1330px;
+    margin-left: 380px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -423,7 +423,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1520px;
+    margin-left: 570px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -446,8 +446,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1710px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -469,7 +467,8 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-top: 5px;
+    margin-left: 190px;
+    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -560,8 +559,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 760px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -583,7 +580,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 950px;
+    margin-left: 190px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -606,7 +603,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1140px;
+    margin-left: 380px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -629,7 +626,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1330px;
+    margin-left: 570px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
@@ -652,8 +649,6 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1520px;
-    margin-top: -172px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -675,7 +670,7 @@
     border: 1px solid black;
     width: 180px;
     height: 170px;
-    margin-left: 1710px;
+    margin-left: 190px;
     margin-top: -172px;
     display: flex;
     flex-direction: column;
